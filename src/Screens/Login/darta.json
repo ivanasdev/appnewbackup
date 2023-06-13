@@ -1,0 +1,11 @@
+{
+    "email": "testinguser@test.com",
+    "password": "b3ea255fb306b859f2571a265e8d03af",
+    "geolocalizacion": {
+        "latitud": 37.785834,
+        "longitud": -122.406417,
+        "acuracy": 5,
+        "dispositivo": "Apple",
+        "sysop": "iOS"
+    }
+}
